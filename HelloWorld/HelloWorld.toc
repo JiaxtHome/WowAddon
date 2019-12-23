@@ -1,0 +1,5 @@
+##Interface: 10100
+##Title: Hello,World!
+##Title-zhCN: 一个插件
+##Notes: a simple debug addon!
+HelloWorld.lua
