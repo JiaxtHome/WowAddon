@@ -1,0 +1,6 @@
+##Interface: 10100
+##Title: SimpleDKP
+##Title-zhCN: DKP管理
+##Notes: 工会Raid DKP插件!
+##Dependencies: SimpleTimingLib
+SimpleDKP.lua
